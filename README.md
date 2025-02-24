@@ -1,7 +1,8 @@
 <h1 align='center'>Hey there! Welcome to my Github Profile 🧐</h1>
 
-
+<p align="center">
 <img src="https://i.pinimg.com/originals/f2/0e/6a/f20e6a4a00c50428547d151eec133d7a.gif" width="400" height="200" />
+</p>
 
 
 <h3 align="center"> My name is <strong>Muhammad Arsal Nawfal Ali</strong>, you can call me <strong>Arsal</strong>. Currently, I'm studying at <strong>SMK Negeri 4 Bandung</strong>. Nice to meet you!</h3>
