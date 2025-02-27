@@ -48,7 +48,7 @@
 
 # Stats 📊
 
-<span>
+<div align="left">
 
 <picture>
   <source
@@ -68,7 +68,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanaee-cloud&layout=compact&theme=dracula)
 
-</span>
+</div>
 
 # Streaks 🔥
 
