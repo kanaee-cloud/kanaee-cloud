@@ -30,6 +30,12 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </span>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jirbthagoras/jirbthagoras/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jirbthagoras/jirbthagoras/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jirbthagoras/jirbthagoras/output/github-snake.svg" />
+</picture>
+
 # Stats & Streaks 📊🔥
 
 <div style="display: flex; flex-direction: row; gap: 20px;">
@@ -38,5 +44,7 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanaee-cloud&layout=compact&theme=dracula)
+
+
 
 
