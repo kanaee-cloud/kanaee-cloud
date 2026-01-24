@@ -7,7 +7,7 @@
 <h3 align="center"> My name is <strong>Muhammad Arsal Nawfal Ali</strong>, you can call me <strong>Arsal</strong>. Nice to meet you!</h3>
 
 <ul>
-  <li>📚 Currently i'm learning <strong>Microservice</strong></li>
+  <li>📚 Currently i'm learning <strong>Flutter</strong></li>
   <li>💻 I'm very interested in <strong>Software Engineering</strong></li>
   <li>⚙️ I'd love to learn something new, especially <strong>Everything!</strong></li>
 </ul>
